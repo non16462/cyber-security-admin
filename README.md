@@ -7,7 +7,7 @@ git clone https://github.com/prawee/cyber-security-admin.git
 cd cyber-security-admin
 npm install
 ```
-test1
+test2
 ## Security
 ```bash
 cp env.simple .env
